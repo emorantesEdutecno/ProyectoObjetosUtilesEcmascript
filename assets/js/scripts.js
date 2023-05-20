@@ -120,7 +120,6 @@ function probarReflect(){
         }
     };
 
-
     console.log(perrito);
     console.log(Reflect.has(perrito,'color'));
     console.log(Reflect.has(perrito,'edad'));
